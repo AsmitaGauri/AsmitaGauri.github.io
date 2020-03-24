@@ -25,15 +25,14 @@ font-family: 'Quicksand', sans-serif;
 
 }
 #main{
-	justify-content: center;
-	text-align:center;
+   margin:0px 20px;
 }
 #name{
-	font-size: 24px;
+	font-size: 40px;
 	line-height: 50px;
 }
 #bio{
-	font-size: 26px;
+	font-size: 42px;
 }
 #about{
 	font-size:2rem;
