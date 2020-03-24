@@ -32,11 +32,11 @@ font-family: 'Quicksand', sans-serif;
 	flex-direction: column;
 }
 #name{
-	font-size: 40px;
+	font-size: 42px;
 	line-height: 50px;
 }
 #bio{
-	font-size: 42px;
+	font-size: 44px;
 }
 #about{
 	font-size:2em;
@@ -130,7 +130,7 @@ h1{
 	font-size:20px;
 }
 .card-title{
-	font-size: 20px;
+	font-size: 30px;
 	font-weight:bold;
 	text-decoration: underline;
 }
