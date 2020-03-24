@@ -112,7 +112,7 @@ hr.styleBorder {
 	border-top: 3px double #8c8b8b;
 }
 #desc,#projects,#exp{
-	font-size:40px;
+	font-size:30px;
 	color:white;
 	text-align: left;
 	justify-content: left;
