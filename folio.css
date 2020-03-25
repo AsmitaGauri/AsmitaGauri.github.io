@@ -11,6 +11,7 @@ body{
  margin:0%;
  width:100vw;
  align-items: center;
+ background:black;
  font-family: 'Quicksand', sans-serif;
 }
 
@@ -75,7 +76,7 @@ body{
 	font-size:18px;
 	line-height: 50px;
 }
-#
+
 
 a,#loc{
 	font-size: 18px;
