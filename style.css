@@ -67,7 +67,7 @@ body{
 	}
 	#about span{
 		font-size:1rem      !important;
-		line-height: 10px   !important;
+		line-height: 0px   !important;
 	}
 }
 
