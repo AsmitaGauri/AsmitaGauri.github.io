@@ -48,6 +48,7 @@ body{
     height: 250px;
     border-width: 5px 5px;
     border-radius: 125px;
+    margin-top:10px;
     margin:0px auto;
     background: url("https://media-exp1.licdn.com/dms/image/C4D03AQFykI6RTNLY4Q/profile-displayphoto-shrink_200_200/0?e=1590624000&v=beta&t=1OI8G2R2pXdwEw1QYTjWjgqC3FsKDgnE5oN-iFg8ng4") center center;
     background-size: cover;
@@ -61,17 +62,17 @@ body{
 }
 
 #name{
-	font-size: 25px;
+	font-size: 2em;
 }
 
 #bio{
-	font-size:26px;
+	font-size:2.5em;
 }
 
 #about span{
 	display:block;
 	color:rgb(255, 87, 51);
-	font-size:18px;
+	font-size:1.5em;
 	margin-bottom: 5px;
 }
 
