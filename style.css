@@ -1,7 +1,7 @@
 body{
 	background:#f5d9df;
     font-family: 'Baloo 2', cursive;
-
+     width:100vw
 }
 
 #mainNavbar{
@@ -22,7 +22,7 @@ body{
 	font-size:1.5rem;
 	font-weight: 400;
 }
-@media(max-width:900px){
+@media(max-width:800px){
 	#mainNavbar{
 		display:none;
 	}
@@ -32,7 +32,7 @@ body{
 	color:rgb(252, 3, 65);
 	font-weight:700;
 }
-@media(max-width:900px){
+@media(max-width:800px){
 	#profile{
 		width: 90vw;
         padding: 4vh 5vw;
@@ -52,7 +52,7 @@ body{
     background: url("https://media-exp1.licdn.com/dms/image/C4D03AQFykI6RTNLY4Q/profile-displayphoto-shrink_200_200/0?e=1590624000&v=beta&t=1OI8G2R2pXdwEw1QYTjWjgqC3FsKDgnE5oN-iFg8ng4") center center;
     background-size: cover;
 }
-@media (max-width:900px){
+@media (max-width:800px){
 	#profile-pic{
 		width:120px;
 		height:120px;
