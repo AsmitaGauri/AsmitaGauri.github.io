@@ -239,3 +239,8 @@ hr{
 	text-align: center;
 	color:white;
 }
+@media(max-width:800px){
+	#stack.card-body{
+		text-align: center;
+	}
+}
