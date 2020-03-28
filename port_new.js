@@ -1,3 +1,3 @@
 setTimeout(function(){
   $('body').addClass('loaded');
-}, 2000);
+}, 500);
